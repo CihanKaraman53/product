@@ -1,0 +1,8 @@
+.side-wrapper {
+  border-right: 1px solid gray;
+  width: 25%;
+}
+.side-wrapper .side-label {
+  font-size: 25px;
+  margin-left: 10px;
+}/*# sourceMappingURL=Sidebar.css.map */

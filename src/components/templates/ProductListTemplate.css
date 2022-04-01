@@ -1,0 +1,7 @@
+.productlist-wrapper {
+  display: flex;
+  flex-direction: column;
+}
+.productlist-wrapper .main {
+  display: flex;
+}/*# sourceMappingURL=ProductListTemplate.css.map */

@@ -1,0 +1,10 @@
+$border: 1px solid gray;
+
+.side-wrapper {
+  border-right: $border;
+  width: 25%;
+  .side-label {
+    font-size: 25px;
+    margin-left: 10px;
+  }
+}
